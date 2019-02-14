@@ -13,6 +13,6 @@ prte --daemonize
 prun --oversubscribe -n 2 ./client
 ret=$?
 
-prun --terminate
+pterminate
 
 exit $ret
