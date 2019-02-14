@@ -27,5 +27,6 @@ AC_DEFUN([ORTE_CONFIG_FILES],[
         orte/tools/wrappers/pcc.pc
         orte/tools/prte_info/Makefile
         orte/tools/prte/Makefile
+        orte/tools/pterminate/Makefile
     ])
 ])

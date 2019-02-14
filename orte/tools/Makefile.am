@@ -29,11 +29,13 @@ SUBDIRS += \
 	tools/prun \
 	tools/wrappers \
         tools/prte_info \
-        tools/prte
+        tools/prte \
+        tools/pterminate
 
 DIST_SUBDIRS += \
 	tools/prted \
 	tools/prun \
 	tools/wrappers \
         tools/prte_info \
-        tools/prte
+        tools/prte \
+        tools/pterminate
